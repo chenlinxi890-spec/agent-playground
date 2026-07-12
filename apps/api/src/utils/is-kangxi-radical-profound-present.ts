@@ -1,8 +1,8 @@
 ﻿/**
- * Detects whether a string contains the Kangxi Radical Profound character (U+2F5A).
+ * Detects whether a string contains the Kangxi Radical Profound character (U+2F5E).
  * @param input - The string to check.
- * @returns true if the input contains the Kangxi Radical Profound character.
+ * @returns true if the input contains the kangxi radical profound character.
  */
 export function isKangxiRadicalProfoundPresent(input: string): boolean {
-  return input.includes('\u2F5A');
+  return input.includes('\u2F5E');
 }
