@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Detects whether a string contains the Kangxi Radical Sweet character (U+2F64).
  * @param input - The string to check.
  * @returns true if the input contains the Kangxi Radical Sweet character.
